@@ -1,0 +1,49 @@
+Circuit: * C:\users\akash\Desktop\ActiveFiltersPractice\Project Images\Draft1.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter LDIF
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter CTP
+Ignoring BSIM parameter PTP
+Ignoring BSIM parameter CTA
+Ignoring BSIM parameter PTA
+Ignoring BSIM parameter TLEVC
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter CTA
+Ignoring BSIM parameter CTP
+Ignoring BSIM parameter PTA
+Ignoring BSIM parameter PTP
+Ignoring BSIM parameter LDIF
+Ignoring BSIM parameter HDIF
+Error on line 68 : .model cmosp pmos ( level=49  version=3.1 mobmod=1 capmod=2.0000e+00  binunit=1.0000e+00 nqsmod=0.0000e+00  tox=7.7e-9 toxm=4.2000e-09  xj=1e-7 nch=8.52e+16 ngate=1.0000e+23  vth0= -0.7163484 k1=0.408893  k2=-4.658963e-3 k3=83.7384608 k3b=-5  w0=6.344557e-6 nlx=2.240363e-7 dvt0=1.6210073  dvt1=0.5540586 dvt2=4.208854e-4 dvt0w=0  dvt1w=0 dvt2w=0 lint=0  wint=1.472296e-7 dwg=-1.708734e-8 dwb=9.651369e-9  u0=152.1750181 ua=1.104005e-10  ub=1.869373e-18 uc=-1.72527e-11 vsat=1.303949e+5  a0=1.0511452 ags=0.3481503 b0=2.548932e-6  b1=5e-6 keta=-6.220316e-3 a1=1.304949e-4  a2=1.0000e+00 voff=-0.1353734 nfactor=1.8615508  cit=0 cdsc=2.4e-4 cdscd=0  cdscb=0 eta0=0.0402356 etab=3.101076e-3  dsub=0.4414883 pclm=4.0879121 pdiblc1=1.7464e-4  pdiblc2=7.295654e-3 pdiblcb=0.049958 drout=9.989502e-4  pscbe1=7.963794e+10 pscbe2=5e-10 pvag=4.3044365  rdsw=4e+3 prwg=-0.1517701 prwb=0.0807754  alpha0=0.0000e+00 alpha1=0.0000e+00 beta0=3.0000e+01  cgdo=3.38e-10 cgbo=1e-12  cgso=3.38e-10 xpart=0.5  cf=0 dlc=5.6000e-08 cgsl=0.0000e+00  cgdl=0.0000e+00 ckappa=6.0000e-01 clc=1.0000e-07  cle=6.0000e-01 dwc=0.0000e+00 vfbcv=-1.0000e+00  noff=1.0000e+00 voffcv=0.0000e+00 acde=1.0000e+00  moin=1.5000e+01 lmin=1.8000e-07 lmax=5.0000e-05  wmin=2.4000e-07 wmax=1.0000e-04  xl=-5e-8  xw=1.5e-7 js=3.0000e-06  jsw=4.1200e-11 cj=1.413045e-3  mj=0.5610227 pb=0.99  cjsw=2.971607e-10 mjsw=0.38282  tnom=2.7000e+01 ute=-1.5 kt1=-0.11  kt1l=0 kt2=0.022 ua1=4.31e-9  ub1=-7.61e-18 uc1=-5.6e-11 at=3.3e+4  prt=0.0000e+00 xti=3.0000e+00 ww=0  lw=0 ll=0 wl=0.0000e+00  wln=1.0000e+00 wwn=1.0000e+00 wwl=0.0000e+00  lln=1.0000e+00 lwn=1.0000e+00 lwl=0.0000e+00  llc=-7.4500e-15 lwc=0.0000e+00 lwlc=0.0000e+00  wlc=0.0000e+00 wwc=0.0000e+00 wwlc=0.0000e+00  lvth0=4.4000e-03  wvth0= - 1.4800e-02  pvth0=7.40325e-3 lnlx=-1.5840e-08  wrdsw=1.0070e+01 weta0=0.0000e+00 wetab=0.0000e+00  wpclm=0.0000e+00 wua=2.6300e-09 lua=-8.1530e-11  pua=5.8550e-11 wub=0.0000e+00 lub=0.0000e+00  pub=0.0000e+00 wuc=0.0000e+00 luc=0.0000e+00  puc=0.0000e+00 wvoff=-9.8160e-03 lvoff=-9.8710e-04  pvoff=-9.8330e-05 wa0=-4.8070e-02 la0=-2.8100e-01  pa0=8.6610e-02 wags=-4.1770e-02 lags=4.4540e-02  pags=-4.0760e-02 wketa=1.675253e-3 lketa=-3.463411e-3  pketa=0.0000e+00 wute=-2.6820e-01 lute=0.0000e+00  pute=0.0000e+00 wvsat=-1.4200e+04 lvsat=0.0000e+00  pvsat= - 4.3400e+02 lpdiblc2=3.0120e-03  cjswg= 4.42e-11 wat=-6.4050e+03  wprt=2.1660e+02 n=1.0000e+00 pbsw=0.99  cta=1.0000e-03 ctp=7.5300e-04 pta=1.5500e-03  ptp=1.2400e-03 ldif=8.0000e-08 rsh=148.4  rd=0.0000e+00 rsc=0.0000e+00 rdc=0.0000e+00  hdif=2.6000e-07 rs=0.0000e+00  noimod=2.0e+00 noia=3.57456993317604e+18 noib=2500  noic=2.61260020285845e-11 ef=1.1388 em=41000000 )
+	* Unrecognized parameter "rsc" -- ignored
+	* Unrecognized parameter "rdc" -- ignored
+WARNING: Node N005 is floating.
+WARNING: Node N006 is floating.
+
+WARNING: Less than two connections to node N005.  This node is used by M1.
+WARNING: Less than two connections to node N006.  This node is used by M3.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Oct 31 18:59:35 2022
+Total elapsed time: 0.188 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20066
+traniter = 20034
+tranpoints = 10018
+accept = 10018
+rejected = 0
+matrix size = 15
+fillins = 2
+solver = Normal
+Matrix Compiler1:      52 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: off
